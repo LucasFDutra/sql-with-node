@@ -1,2 +1,3 @@
-# sql-with-node
-Learning how to use sql db with nodeJS (postgresql)
+# Links
+[Postgre](https://www.postgresql.org/)
+[node-postgre](https://node-postgres.com/)
